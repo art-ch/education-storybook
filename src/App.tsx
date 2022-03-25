@@ -1,5 +1,5 @@
 const App = () => {
-  return <h1>Education Storybook</h1>;
+  return null;
 };
 
 export default App;
