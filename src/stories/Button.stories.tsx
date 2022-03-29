@@ -3,7 +3,7 @@ import { ComponentStory } from '@storybook/react';
 import Button from '../components/Button';
 
 export default {
-  title: 'Button',
+  title: 'Components/Button',
   component: Button,
   argTypes: {
     size: { options: ['sm', 'md', 'lg'], control: { type: 'radio' } },

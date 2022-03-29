@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 
 interface StackProps {
+  numberOfChildren?: number;
   children: any;
   spacing: number;
   direction: string;
